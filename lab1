@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            .sec-plane{
+                color:rgb(109, 140, 137);
+                background-color:rgb(232, 237, 240);
+            }
+            ul{
+                color:rgb(119, 209, 143);
+                font-weight:bold;
+                background-color:rgb(226, 240, 235);
+            }
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1 class="sec-plane">Sofware engineer's blog</h1>
+
+        <h3 class="sec-plane">All stages of becoming a master:</h3>
+        <ul>
+            <li>Complete all labworks</li>
+            <li>Practice on the Angular</li>
+            <li>Manage with Django framework</li>
+            <li>Get a feedback from Proffessor and asistent</li>
+            <li>Perform several really amazing projects</li>
+        </ul>
+        
+        <h2 class="sec-plane">Complete all labworks</h2>
+        <p>Dont underrestimate your labs because , it might time-consuming , that is why spend enough time to complete all task on the high level.</p>
+        <h6 class="sec-plane">08-02-2021</h6>
+        <h2 class="sec-plane">d</h2>
+        <p>Dont underrestimate your labs because , it might time-consuming , that is why spend enough time to complete all task on the high level.</p>
+        <h6 class="sec-plane">08-02-2021</h6>
+        
+        <p>Something excited happened.</p>
+        
+        
+    </body>
+</html>
